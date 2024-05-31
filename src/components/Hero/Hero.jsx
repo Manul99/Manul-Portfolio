@@ -41,7 +41,7 @@ const sliderVariant ={
 }
 const Hero = () => {
     const handleCvClick = () =>{
-        window.location.href="https://drive.google.com/file/d/1BqKGDB6FHEIa7fFNvgf14WM0ycd5YN_C/view?usp=sharing";
+        window.location.href="https://drive.google.com/file/d/1LHR8Os4YmMAvbTMhgVaJT_p_qJOOB31t/view?usp=sharing";
     }
 
     const handleContact = () =>{

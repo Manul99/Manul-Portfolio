@@ -71,8 +71,8 @@ const items = [
     },
     {
         id:10,
-        title:"Pharmacy Management system using C#",
-        img:"/pharm.png",
+        title:"Pharmacy Management system using .NET",
+        img:"/net.png",
         desc:"Desktop application that can manage the pharmacy system.",
         demoLink:"https://github.com/Manul99/Pharmacy-Management-System"
     },

@@ -7,14 +7,14 @@ import {motion, useScroll,useSpring, useTransform } from "framer-motion";
 const items = [
     {
         id:1,
-        title:"Tea Disease Detection App using Machine Learning- TeaGuardian",
+        title:"TeaGuardian",
         img:'/TeaGuardian.png',
         desc:"Mobile app accurately detects tea diseases using Machine Learning and delivers expert treatments to ensure thriving crops. ",
         demoLink: "https://drive.google.com/file/d/1ar-OWqwvsAjovMuTfx8UtIXv3ahTVaXY/view"
     },
     {
         id:2,
-        title:"Furniture Shop Management System",
+        title:"Phoenix Furniture",
         img:"/furniture1.png",
         desc:"Desktop application for furniture shops: create stunning 2D/3D rooms, manage staff details, and track inventory seamlessly. ",
         demoLink: "https://drive.google.com/file/d/1cR3pUYYdpNrif_FWHQnTYwTPwW28oH_k/view?usp=sharing"
@@ -29,28 +29,28 @@ const items = [
     },
     {
         id:4,
-        title:"Crowdsourced Reporting System for Colombo Municipal Council - Using MERN",
+        title:"Clean Colombo",
         img:"/crowdmern.png",
         desc:"  Web platform streamlining garbage collection: district volunteers report trash for efficient pickup.",
         demoLink:" https://github.com/Manul99/Crowdsourced-reporting-system-using-MERN"
     },
     {
         id:5,
-        title:"IOT based poultry farm management system",
+        title:"Smart poultry farm management system",
         img:"/farm.png",
         desc:"  Web system to monitor the whole farm.",
         demoLink:"  https://drive.google.com/file/d/1mLTT6sYXrUYiEY3NwHmv1J9sc2ykdKiI/view?usp=sharing"
     },
     {
         id:6,
-        title:"Crowdsourced Reporting System for Colombo Municipal Council - Using ASP.NET",
+        title:"Clean Colombo - Using ASP.NET",
         img:"/crowdasp.png",
         desc:"  Web platform streamlining garbage collection: district volunteers report trash for efficient pickup.",
         demoLink:"https://github.com/Manul99/CMC-project-using-ASP.NET"
     },
     {
         id:7,
-        title:"Modern User Experience: Revamping ABC Cinemas Website with Advanced Features and JSP/Servlet Technologies",
+        title:"ABC Cinemas",
         img:"/film.png",
         desc:"  Web system to enabling online booking, secure payments, and Email reservation notifications. Enhanced UX and efficiency",
         demoLink:"https://github.com/Manul99/ABC-Cinema"

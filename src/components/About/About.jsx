@@ -6,7 +6,7 @@ const items = [
     {
         id:1,
         title:"Hi! I'm Manul Perera,",
-        content:"Passionate and focused undergraduate studying software engineering in Plymouth University who is interested in the latest technology. Eager to pick things up quickly, adjust and work on creative ideas. Passionate about using technology to solve difficult problems and discovering new directions in software development. Willing to work together and eager to meet similar industry professionals."
+        content:"Passionate and focused software engineering graduate from Plymouth University who is interested in the latest technology. Eager to pick things up quickly, adjust and work on creative ideas. Passionate about using technology to solve difficult problems and discovering new directions in software development. Willing to work together and eager to meet similar industry professionals."
     },
 ]
 
